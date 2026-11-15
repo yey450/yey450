@@ -1,19 +1,17 @@
 ### Hi, I'm Niki Ye 👋
-**AI-Driven Materials Characterization & Intelligent Microscopy 🔬**
+**Automated Quantitative Electron Microscopy & Intelligent Characterization 🔬**
 
-M.Eng. Student at Zhejiang University | Materials Science × Computer Vision
-
-Exploring vision foundation models, quantitative microscopy, and intelligent image analysis for materials characterization.
+Exploring **automated characterization pipelines**, **in-situ dynamic tracking**, and **quantitative microstructural analytics** for materials reliability.
 
 ---
 
-#### ⚡ Technical Foundation
-* **Programming & Vision:** `Python` · `PyTorch` · `OpenCV` · `Scikit-image` · `NumPy` · `SciPy`
-* **Materials & Microscopy:** `TEM / SEM` · `Microstructural Characterization` · `Experimental Data Analysis`
+#### ⚡ Technical Stack
+* **Microscopy & Analytics:** `HyperSpy` · `Napari` · `In-situ TEM/SEM` · `NumPy / SciPy`
+* **Vision & Automation:** `Python` · `PyTorch` · `SAM 2` · `OpenCV` · `Scikit-image`
 
 ---
 
 #### 🚀 Research Interests
-* **Vision Foundation Models:** Promptable segmentation and low-label materials image analysis
-* **Intelligent Microscopy:** Automated image processing and quantitative microstructural characterization
-* **In-situ Characterization:** Microstructural evolution, dynamic tracking, and AI-assisted analysis
+* **Automated Quantitative Pipelines:** Translating raw TEM/SEM image and video streams into reproducible, statistically rigorous microstructural descriptors.
+* **In-situ Dynamics & Reliability:** Automated sub-pixel drift registration and spatiotemporal tracking of deformation, defect evolution, and interface degradation under external stimuli.
+* **Vision Foundation Models for Microscopy:** Adapting promptable segmentation (`SAM 2`) to low-dose, high-noise microscopy data with minimal human annotations.
